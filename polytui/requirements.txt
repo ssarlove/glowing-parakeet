@@ -1,0 +1,18 @@
+# PolyTUI - Polymarket Terminal User Interface
+# Requirements
+
+# Core TUI framework
+textual>=0.90.0
+
+# HTTP client
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Rich library for enhanced terminal output
+rich>=13.7.0
+
+# Optional: for authentication and Web3 interaction
+# web3>=6.0.0
+# eth-account>=0.9.0
